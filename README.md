@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**albxrt07/albxrt07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Albert 👋
 
-Here are some ideas to get you started:
+I'm the founder of **BrookX**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building products that solve real problems—from AI applications and ERP systems to cloud platforms and developer tools.
+
+If I don't know how to build something yet, I'll learn until I can.
+
+---
+
+### Currently Building
+
+- 🤖 AI-powered software
+- 🏢 Modern ERP solutions
+- ☁️ Cloud-native applications
+- 📈 Trading & automation tools
+
+---
+
+### Tech I Work With
+
+TypeScript • Python • Next.js • React • Tailwind CSS • Supabase • PostgreSQL • Docker
+
+---
+
+### Philosophy
+
+> Build things that outlive trends.
+
+---
+
+### Outside of Coding
+
+- i do Gym🏋️ 
+- 🎮 Gaming
+- 🚗 Cars
+- 🎌 Anime
+- 📚 Learning something new every day
+
+---
+
+> *"The best way to predict the future is to build it."*
